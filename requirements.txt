@@ -1,0 +1,11 @@
+tensorflow-cpu==1.15
+streamlit==0.65.2
+numpy
+pandas
+keras==2.3.0
+matplotlib
+pandas_datareader
+datetime
+yfinance==0.1.54
+seaborn
+sklearn
